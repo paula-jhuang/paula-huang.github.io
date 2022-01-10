@@ -553,7 +553,8 @@ progress {
 }
 
 .contact-text {
-  font-size: 1.25rem;
+  display: flex;
+  justify-content: center;
 }
 
 .display-1 {
