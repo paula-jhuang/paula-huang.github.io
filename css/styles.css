@@ -11427,7 +11427,7 @@ html {
 @media (min-width: 992px) {
   .divider-custom .divider-site-title {
     width: 100%;
-    max-width: 20rem;
+    max-width: 34rem;
     height: 0.25rem;
     background-color: #000;
     border-radius: 1rem;
